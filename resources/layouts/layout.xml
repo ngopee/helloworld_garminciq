@@ -5,6 +5,7 @@
     <label id="HeartrateDisplay" text="000" x="center" y="top" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
     <label id="StepCountDisplay" text="00000" x="70%" y="20%" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_BLUE" />
     <label id="StepGoalDisplay" text="00000" x="30%" y="80%" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_BLUE" />
-    <label id="DateDisplay" text="00/00/00" x="center" y="bottom" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />      
+    <label id="DateDisplay" text="00/00/00" x="center" y="90%" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />      
     <label id="MessageCountDisplay" text="+00" x="70%" y="80%" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_BLUE" />
+    <!-- <label id="NotificationCountDisplay" text="+00" x="60%" y="80%" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_BLUE" /> -->
 </layout>
