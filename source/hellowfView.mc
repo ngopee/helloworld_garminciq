@@ -24,9 +24,8 @@ class hellowfView extends WatchUi.WatchFace {
     function onUpdate(dc as Dc) as Void {
         // Get and show the current time
         var clockTime = System.getClockTime();
-        //var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
-        var timeString = "Hello World";
-        var view = View.findDrawableById("TimeLabel") as Text;
+        var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
+        var view = View.findDrawableById("TimeDisplay") as Text;
         view.setText(timeString);
 
         // Call the parent onUpdate function to redraw the layout
