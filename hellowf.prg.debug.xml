@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/nas/Desktop/mk2/initapp/hellowf/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="3" lineNum="18" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="4" lineNum="23" pc="268435479" symbol="onLayout"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="4" lineNum="24" pc="268435483" symbol="onLayout"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="5" lineNum="30" pc="268435521" symbol="onShow"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="6" lineNum="34" pc="268435526" symbol="onUpdate"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="6" lineNum="35" pc="268435530" symbol="onUpdate"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="6" lineNum="36" pc="268435542" symbol="onUpdate"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="6" lineNum="37" pc="268435554" symbol="onUpdate"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="6" lineNum="38" pc="268435566" symbol="onUpdate"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="6" lineNum="39" pc="268435578" symbol="onUpdate"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="6" lineNum="41" pc="268435590" symbol="onUpdate"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="6" lineNum="44" pc="268435602" symbol="onUpdate"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="7" lineNum="50" pc="268435623" symbol="onHide"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="8" lineNum="54" pc="268435628" symbol="onExitSleep"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="9" lineNum="58" pc="268435633" symbol="onEnterSleep"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="11" lineNum="71" pc="268435772" symbol="setDateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="11" lineNum="72" pc="268435776" symbol="setDateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="11" lineNum="73" pc="268435795" symbol="setDateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="11" lineNum="74" pc="268435828" symbol="setDateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="11" lineNum="75" pc="268435904" symbol="setDateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="11" lineNum="76" pc="268435928" symbol="setDateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="12" lineNum="79" pc="268435943" symbol="setBatteryDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="12" lineNum="80" pc="268435947" symbol="setBatteryDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="12" lineNum="81" pc="268435970" symbol="setBatteryDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="12" lineNum="82" pc="268435994" symbol="setBatteryDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="13" lineNum="85" pc="268436029" symbol="setStepCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="13" lineNum="86" pc="268436033" symbol="setStepCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="13" lineNum="87" pc="268436065" symbol="setStepCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="13" lineNum="88" pc="268436089" symbol="setStepCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="14" lineNum="91" pc="268436104" symbol="setStepGoalDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="14" lineNum="92" pc="268436108" symbol="setStepGoalDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="14" lineNum="93" pc="268436177" symbol="setStepGoalDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="14" lineNum="94" pc="268436201" symbol="setStepGoalDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="15" lineNum="97" pc="268436236" symbol="setNotificationCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="15" lineNum="98" pc="268436240" symbol="setNotificationCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="15" lineNum="100" pc="268436263" symbol="setNotificationCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="15" lineNum="102" pc="268436270" symbol="setNotificationCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="15" lineNum="103" pc="268436281" symbol="setNotificationCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="15" lineNum="106" pc="268436291" symbol="setNotificationCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="15" lineNum="110" pc="268436309" symbol="setNotificationCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="15" lineNum="111" pc="268436333" symbol="setNotificationCountDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="16" lineNum="114" pc="268436348" symbol="setHeartrateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="16" lineNum="115" pc="268436352" symbol="setHeartrateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="16" lineNum="117" pc="268436359" symbol="setHeartrateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="16" lineNum="118" pc="268436374" symbol="setHeartrateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="16" lineNum="121" pc="268436390" symbol="setHeartrateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="16" lineNum="124" pc="268436397" symbol="setHeartrateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfView.mc" id="16" lineNum="125" pc="268436421" symbol="setHeartrateDisplay"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfApp.mc" id="19" lineNum="7" pc="268436526" symbol="initialize"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfApp.mc" id="19" lineNum="8" pc="268436530" symbol="initialize"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfApp.mc" id="20" lineNum="12" pc="268436549" symbol="onStart"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfApp.mc" id="21" lineNum="16" pc="268436554" symbol="onStop"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfApp.mc" id="22" lineNum="20" pc="268436559" symbol="getInitialView"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfApp.mc" id="22" lineNum="21" pc="268436563" symbol="getInitialView"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfApp.mc" id="23" lineNum="26" pc="268436601" symbol="getApp"/>
+        <entry filename="/Users/nas/Desktop/mk2/initapp/hellowf/source/hellowfApp.mc" id="23" lineNum="27" pc="268436613" symbol="getApp"/>
+        <entry filename="Rez" id="29" lineNum="17" pc="268436630" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="19" pc="268436642" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="20" pc="268436805" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="21" pc="268436951" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="22" pc="268437104" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="23" pc="268437250" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="24" pc="268437396" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="25" pc="268437542" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="27" pc="268437688" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="16" method="true" symbol="setDateDisplay"/>
+        <entry id="10" object="true" symbol="hellowfApp"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="14" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="20" method="true" symbol="setNotificationCountDisplay"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="9" object="true" symbol="hellowfView"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="18" method="true" symbol="setStepCountDisplay"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8389714" symbol="INVALID_HR_SAMPLE"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="22" method="true" symbol="&lt;globals/hellowfView/&lt;&gt;retrieveHeartrateText&gt;"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="17" method="true" symbol="setBatteryDisplay"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="19" method="true" symbol="setStepGoalDisplay"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="15" method="true" symbol="&lt;globals/hellowfView/&lt;&gt;setClockDisplay&gt;"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="21" method="true" symbol="setHeartrateDisplay"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435623" name="dc" stackId="1" startPc="268435526"/>
+        <entry endPc="268435771" name="view" stackId="3" startPc="268435642"/>
+        <entry endPc="268435771" name="timeString" stackId="2" startPc="268435642"/>
+        <entry endPc="268435771" name="clockTime" stackId="1" startPc="268435642"/>
+        <entry endPc="268435942" name="date" stackId="2" startPc="268435776"/>
+        <entry endPc="268435942" name="now" stackId="1" startPc="268435776"/>
+        <entry endPc="268435942" name="dateDisplay" stackId="4" startPc="268435776"/>
+        <entry endPc="268435942" name="dateString" stackId="3" startPc="268435776"/>
+        <entry endPc="268436028" name="battery" stackId="1" startPc="268435947"/>
+        <entry endPc="268436028" name="batteryDisplay" stackId="2" startPc="268435947"/>
+        <entry endPc="268436103" name="stepCountDisplay" stackId="2" startPc="268436033"/>
+        <entry endPc="268436103" name="stepCount" stackId="1" startPc="268436033"/>
+        <entry endPc="268436235" name="stepGoalPercent" stackId="1" startPc="268436108"/>
+        <entry endPc="268436235" name="stepGoalDisplay" stackId="2" startPc="268436108"/>
+        <entry endPc="268436347" name="notificationAmount" stackId="1" startPc="268436240"/>
+        <entry endPc="268436347" name="notificationCountDisplay" stackId="3" startPc="268436240"/>
+        <entry endPc="268436347" name="formattedNotificationAmount" stackId="2" startPc="268436240"/>
+        <entry endPc="268436435" name="heartRate" stackId="1" startPc="268436352"/>
+        <entry endPc="268436435" name="heartrateDisplay" stackId="2" startPc="268436352"/>
+        <entry endPc="268436525" name="heartrateIterator" stackId="1" startPc="268436440"/>
+        <entry endPc="268436525" name="currentHeartrate" stackId="2" startPc="268436440"/>
+        <entry arg="true" endPc="268436554" name="state" stackId="1" startPc="268436549"/>
+        <entry arg="true" endPc="268436559" name="state" stackId="1" startPc="268436554"/>
+        <entry endPc="268437765" name="rez_cmp_local_text_DateDisplay" stackId="7" startPc="268436642"/>
+        <entry endPc="268437765" name="rez_cmp_local_text_HeartrateDisplay" stackId="4" startPc="268436642"/>
+        <entry endPc="268437765" name="rez_cmp_local_text_BatteryDisplay" stackId="3" startPc="268436642"/>
+        <entry endPc="268437765" name="rez_cmp_local_text_StepCountDisplay" stackId="5" startPc="268436642"/>
+        <entry endPc="268437765" name="rez_cmp_local_text_MessageCountDisplay" stackId="8" startPc="268436642"/>
+        <entry endPc="268437765" name="rez_cmp_local_text_StepGoalDisplay" stackId="6" startPc="268436642"/>
+        <entry endPc="268437765" name="rez_cmp_local_text_TimeDisplay" stackId="2" startPc="268436642"/>
+        <entry arg="true" endPc="268437766" name="dc" stackId="1" startPc="268436630"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/hellowfApp" offset="158" parentId="globals" symbolId="hellowfApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="229" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="308" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="347" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="378" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="448" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="479" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/hellowfView" offset="518" parentId="globals" symbolId="hellowfView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="hellowfView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="hellowfView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/hellowfView/&lt;&gt;setClockDisplay&gt;" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setDateDisplay" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setBatteryDisplay" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setStepCountDisplay" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setStepGoalDisplay" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setNotificationCountDisplay" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="setHeartrateDisplay" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/hellowfView/&lt;&gt;retrieveHeartrateText&gt;" parent="hellowfView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="hellowfApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="hellowfApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="hellowfApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="hellowfApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
